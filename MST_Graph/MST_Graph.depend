@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591323493 source:d:\c++ code\mst_graph\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+

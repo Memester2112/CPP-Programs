@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590408378 source:d:\c++ code\randomgraphgenerator\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

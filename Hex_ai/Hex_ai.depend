@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593030067 source:d:\c++ code\hex_ai\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<algorithm>
+

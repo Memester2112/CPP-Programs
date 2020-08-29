@@ -1,0 +1,11 @@
+Min-Max Algo
+Alpha-Beta Algo
+Monte Carlo Simulation
+
+Bridge Moves
+Center Squares
+Path Extensions
+
+Evaluation Criterion:
+Longest sequential path
+available for each 
