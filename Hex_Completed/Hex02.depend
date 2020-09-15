@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593036908 source:d:\c++ code\hex02\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<algorithm>
+
